@@ -2,6 +2,8 @@
 
 A vibecoded, dynamic, and printable bingo board generator. Create custom bingo boards directly in your browser, share them with others, or print them for your next event.
 
+Test the site out here: [https://maxfridbe.github.io/vibe_bingo/](https://maxfridbe.github.io/vibe_bingo/)
+
 ## Features
 
 - **Customizable Grid**: Set your bingo board size from 3x3 up to 10x10.
